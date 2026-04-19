@@ -1,6 +1,5 @@
 # 🏥 Advanced Medical & Healthcare Portal
 
-![Banner](https://image head.png/photo-1538108197003-8ad238865912?q=80&w=2070&auto=format&fit=crop)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,6 +23,8 @@ Yeh ek modern healthcare solution website hai jo patient-centric design par mabn
 * **Styling:** CSS3 (Custom Grid & Flexbox)
 * **Logic:** Modern JavaScript (ES6+)
 * **Libraries:** Typed.js (for animated text)
+
+![Banner](image%20head.png)
 
 ## 🚀 Quick Start
 1. Repository ko clone karein:
