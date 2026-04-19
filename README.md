@@ -1,6 +1,6 @@
 # 🏥 Advanced Medical & Healthcare Portal
 
-![Banner](https://images.unsplash.com/photo-1538108197003-8ad238865912?q=80&w=2070&auto=format&fit=crop)
+![Banner](https://image head.png/photo-1538108197003-8ad238865912?q=80&w=2070&auto=format&fit=crop)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
